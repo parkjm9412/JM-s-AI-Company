@@ -1,0 +1,17 @@
+# OS
+desktop.ini
+.DS_Store
+Thumbs.db
+
+# Local settings
+.claude/
+.env
+.env.local
+
+# Node modules
+node_modules/
+
+# IDE
+.vscode/settings.json
+*.swp
+*.swo
